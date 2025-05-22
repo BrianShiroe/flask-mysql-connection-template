@@ -1,18 +1,2 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
 # Environment variables (if you use any)
 .env
-
-# MySQL or database config files (if any)
-config.py
-
-# VS Code or other IDE settings (optional)
-.vscode/
-.idea/
-
-# Virtual environment folder (if any)
-venv/
-env/
