@@ -7,10 +7,10 @@ A simple Flask + MySQL connection template designed for local development. Just 
 ## SETUP:
 ```bash
 #1. Clone the repository
-git clone https://github.com/BrianShiroe/flask-mysql-connection-template.git
+git clone https://github.com/BrianShiroe/python-flask-mysql-connection-template.git
 
 #2. Access the project directory
-cd flask-mysql-connection-template
+cd python-flask-mysql-connection-template
 
 #3. Check if python is installed
 python --version
