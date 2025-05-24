@@ -1,6 +1,6 @@
 # 🔌 Flask MySQL Connection Template
 
-A simple Flask + MySQL connection template designed for local development. Just follow the steps below to get started quickly.
+A simple Pyhon + Flask + MySQL connection template designed for local development. Just follow the steps below to get started quickly.
 
 <img src="demo.png" alt="demo screenshot" style="border-radius: 12px; max-width: 100%; height: auto;">
 
