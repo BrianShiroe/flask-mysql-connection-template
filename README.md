@@ -2,6 +2,8 @@
 
 A simple Flask + MySQL connection template designed for local development. Just follow the steps below to get started quickly.
 
+<img src="demo.png" alt="demo screenshot" style="border-radius: 12px; max-width: 100%; height: auto;">
+
 ## SETUP:
 ```bash
 #1. Clone the repository
@@ -29,7 +31,7 @@ export DB_NAME=mydatabase       # Name of the database you want to connect to
 python app.py
 
 #8. Open your browser and run the given server link in the terminal.
-http://localhost:5000/getTable
+http://localhost:5000
 ```
 
 ### DONE!
