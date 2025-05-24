@@ -16,16 +16,19 @@ python --version
 #4. If python is installed, proceed to #5. If python is not installed, install on this link.
 https://www.python.org/downloads/
 
-#5. Create a .env file with MySQL configuration, and put these files
+#5. Install required packages
+pip install flask mysql-connector-python python-dotenv
+
+#6. Create a .env file with MySQL configuration, and put these files
 export DB_HOST=localhost        # Hostname of your MySQL server (usually 'localhost' for local development)
 export DB_USER=root             # MySQL username (default is often 'root' unless changed)
 export DB_PASS=password123      # MySQL password (set this to your actual MySQL password)
 export DB_NAME=mydatabase       # Name of the database you want to connect to
 
-#6. Run the Flask application
+#7. Run the Flask application
 python app.py
 
-#7. Open your browser and run the given server link in the terminal.
+#8. Open your browser and run the given server link in the terminal.
 http://localhost:5000/getTable
 ```
 
